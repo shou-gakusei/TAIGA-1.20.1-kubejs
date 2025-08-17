@@ -1,0 +1,28 @@
+StartupEvents.registry(
+    'block',
+    event =>
+    {
+        event.create('whfwtf:dilithium_crystal_block','basic')
+            .requiresTool(true)
+            .tagBlock("minecraft:mineable/pickaxe")
+            .tagBlock("minecraft:needs_iron_tool")
+            .hardness(3)
+        event.create('whfwtf:raw_abyssum_block','basic')
+            .requiresTool(true)
+            .tagBlock("minecraft:mineable/pickaxe")
+            .tagBlock("minecraft:needs_iron_tool")
+            .hardness(3)
+        event.create('whfwtf:raw_aurorium_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_duranite_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_eezo_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_jauxum_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_karmesine_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_osram_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_ovium_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_palladium_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_prometheum_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_uru_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:raw_valyrium_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+        event.create('whfwtf:tiberium_crystal_block','basic').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_iron_tool").hardness(3)
+    }
+)
