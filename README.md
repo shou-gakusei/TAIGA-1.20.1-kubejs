@@ -7,10 +7,9 @@ TAIGA is an addon for Tinkers Construct. It aims to find new minable ores, new a
 Included:
  * 16 new meltable Ores with 3 new hardness levels (5,6,7) ——I use 'minecraft:needs_netherite_tools' instead of Cobalt
  * 16 alloys in combination with new molten ores and molten items
- * actual 27 new Traits with random, funny, positive or negative effects
+ * actual a few new Traits with random, funny, positive or negative effects(maybe I will balance it later)
  * two new types of burnable items (e.g. lignite) and a bunch of other alloy-essential items
- * additional Gold and Iron (slagged), for the use in a lot of other mods. Iron is always too rare...
- * some new additional Blocks. Most of them just with an optical use - atm
+ * some new additional Blocks. Most of them just with an optical use - such as atm
 
  
 Download
@@ -22,7 +21,7 @@ Dependencies
 Necessary:
 * TiC3(Newest)
 * Minecraft Forge 1.20.1(stable version)
-* kubeJS(Any kubeJS 6.x @ 1.20.1 may work)
+* kubeJS(Any kubeJS 6.x stable version at 1.20.1 may work)
 
 Tested with:
 
