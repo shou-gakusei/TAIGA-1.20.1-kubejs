@@ -5,7 +5,7 @@ Tinkers Alloying Addon(TAIGA)
 TAIGA is an addon for Tinkers Construct. It aims to find new minable ores, new alloys and a bunch of new tinker traits for them.
 
 Included:
- * 16 new meltable Ores with 4 new hardness levels (5,6,7,8)
+ * 16 new meltable Ores with 3 new hardness levels (5,6,7) ——I use 'minecraft:needs_netherite_tools' instead of Cobalt
  * 16 alloys in combination with new molten ores and molten items
  * actual 27 new Traits with random, funny, positive or negative effects
  * two new types of burnable items (e.g. lignite) and a bunch of other alloy-essential items
@@ -15,18 +15,20 @@ Included:
  
 Download
 ===============
-[Link coming](www.sosnitzka.com)
+STILL IN DEVELOPING
 
 Dependencies
 ===============
 Necessary:
-* Tinkers Construct for 1.10.2 + associated version of mantle
-* Minecraft Forge 1.10.2
+* TiC3(Newest)
+* Minecraft Forge 1.20.1(stable version)
+* kubeJS(Any kubeJS 6.x @ 1.20.1 may work)
 
 Tested with:
 
-* [Tinkers Construct 2.3.3a](http://minecraft.curseforge.com/projects/tinkers-construct/files)
-* [Minecraft Forge 12.18.1.2011](http://files.minecraftforge.net/)
+* TiC3(Newest)
+* kubeJS(Newest)
+* Forge(stable version @ 1.20.1)
 
 What's going on?
 ===
@@ -42,11 +44,10 @@ How to start?
 
 Hardness of each new ore in case you gonna ask...
 * Low Level: Tiberium, Bismuth
-* Cobalt (4): Prometheum, Eternite, Violium
+* Netherite (4): Prometheum, Eternite, Violium ——Thanks to Mojang
 * Titanite (5): Titanite, Rubium, Mythril, Mindorite
 * Meteorite (6): Meteorite, Arcanite, Palladium, Karmesine
-* Vibranium (7): Vibranium, Ignitite
-* Adamantite (8): Adamantite
+* Vibranium (7): Vibranium, Ignitite, Adamantite
 * It is up to you to find out which alloy you need to get to highest tier.
 
 Balancing, more traits, more alloys, more ores:
