@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pallasite:pallasite",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642136453,
+    "spacing": 2,
+    "separation": 0,
+    "type": "minecraft:random_spread"
+  }
+}
